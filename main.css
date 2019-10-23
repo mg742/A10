@@ -1,10 +1,13 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
     margin-left: 10px;
 }
 a:focus, a:hover {
 	font-style: italic;
 }
-/* the styles for the header */
+
 header h2 {
 	font-size: 175%;
 	color: #800000;
@@ -21,7 +24,7 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-/* the styles for the main content */
+
 main {
 	clear: left;
 }
@@ -36,7 +39,6 @@ main h3 {
 	font-size: 105%;
 }
 
-/* the styles for the footer */
 footer p {
 	text-align: center;
 }
