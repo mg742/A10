@@ -7,6 +7,10 @@ a:focus, a:hover {
 	font-style: italic;
 }
 
+header h1 {
+	color: #800000;
+}
+
 header h2 {
 	font-size: 175%;
 	color: #800000;
